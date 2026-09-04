@@ -1,5 +1,6 @@
 # VRoidThumbs-0.5.0
 Windows Explorer thumbnails for .vroid / .vroidcustomitem / .vrm / .xwear / .xavatar
+日本語 / English / 中文 / 한국어
 
 日本語
 概要
